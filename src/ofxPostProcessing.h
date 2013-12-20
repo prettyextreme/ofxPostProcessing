@@ -56,6 +56,10 @@
 #include "RimHighlightingPass.h"
 #include "LimbDarkeningPass.h"
 #include "BWLevelsPass.h"
+#include "RGBScalePass.h"
+#include "OffsetPass.h"
+#include "GlowPass.h"
+#include "ColorizePass.h"
 
 typedef itg::PostProcessing ofxPostProcessing;
 
