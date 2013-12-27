@@ -60,6 +60,7 @@
 #include "OffsetPass.h"
 #include "GlowPass.h"
 #include "ColorizePass.h"
+#include "BuildOffsetPass.h"
 
 typedef itg::PostProcessing ofxPostProcessing;
 
